@@ -1,10 +1,11 @@
 {
-  "name": "react-rendering",
+  "name": "step-react",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "node-sass": "6.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-scripts": "4.0.0"
